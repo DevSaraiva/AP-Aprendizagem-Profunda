@@ -10,7 +10,7 @@ O presente projeto conta com os seguintes componentes:
 - **[face-mask-detection-pytorch.ipynb](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/blob/main/face-mask-detection-pytorch.ipynb):** Ficheiro com todo o processo relativo ao modelo desenvolvido, desde obtenção de dados, tratamento, visualização, análise e definição do modelo.
 - **[testSetMaker](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/tree/main/testSetMaker):** Funcionalidades relativas ao conjunto de dados utilizados para teste 
   - **[testModel.ipynb](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/blob/main/testSetMaker/testModel.ipynb):** Ficheiro correspondente ao modelo obtido através do Kaggle para comparação com o modelo desenvolvido
-  - **[makingDataset.ipynb](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/blob/main/testSetMaker/makingDataset.ipynb):** Ficheiro para produzir um conjunto de imagens de teste e o *.csv* correspondente (com as *bounding boxes* e *labels*)
+  - **[makingDataset.ipynb](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/blob/main/testSetMaker/makingDataset.ipynb):** Ficheiro para produzir um conjunto de imagens utilizadas para teste e o *.csv* correspondente (com as *bounding boxes* e *labels*)
 - **[maskIncorrectDataMaker](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/tree/main/maskIncorrectDataMaker):** Ficheiro para produzir um conjunto de imagens com a máscara colocada incorretamente
 - **[faceDataMaker](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/tree/main/faceDataMaker):** Funcionalidades para obter um conjunto de imagens sem máscara
 
