@@ -1,7 +1,7 @@
 # Aprendizagem-Profunda
 ## Sistema de Deteção e Classificação de Máscaras Faciais
 
-
+Devido ao facto de o Github não suportar ficheiros com mais de 25Mb, o ficheiro *.zip* com a totalidade dos ficheiros e imagens pode ser descarregado [aqui](https://drive.google.com/file/d/1EYgltvulkoBQu4rZFpy2tuhpqJqMYT47/view)
 Devido ao seu tamanho, o modelo final poderá ser tranferido na [DropBox](https://www.dropbox.com/s/9f0d83rmuxnnrw3/CNNModel-final25.pth?dl=0) ou, caso não seja possível, no [WeTransfer](https://we.tl/t-h1LvZAP1SI) (indisponível ao fim de 7 dias)
 
 
