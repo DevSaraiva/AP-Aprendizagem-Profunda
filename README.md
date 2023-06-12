@@ -14,7 +14,8 @@ O presente projeto conta com os seguintes componentes:
 - **[faceDataMaker](https://github.com/DevSaraiva/AP-Aprendizagem-Profunda/tree/main/faceDataMaker):** Funcionalidades para obter um conjunto de imagens sem máscara
 
 
-Fontes:
+
+### Fontes:
 
 - **[YOLOFace](https://github.com/elyha7/yoloface)**: Modelo pré-treinado do YOLO para deteção de caras (*face detection*)
 - **[Face Mask Detection Dataset](https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset)**: Conjunto inicial de imagens de faces
